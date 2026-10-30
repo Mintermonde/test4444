@@ -1,5 +1,3 @@
-vless://f8e2814b-5165-4ce7-b81d-1377d64c02fc@31.76.13.94:443?encryption=none&security=none&type=tcp#Ruslan-Family
-
 domain:facebook.com
 domain:youtube.com
 suffix:gemini.google.com
@@ -30,4 +28,6 @@ suffix:googleusercontent.com
 suffix:clients6.google.com
 suffix:apis.google.com
 
-tg://proxy?server=31.76.13.94&port=5050&secret=eed3ea65d1699542c4377b80a0375da1e4676f6f676c652e636f6d
+vless://f8e2814b-5165-4ce7-b81d-1377d64c02fc@31.76.13.94:443?encryption=none&fp=firefox&pbk=h2JlQqfKIaIBNdlVRFRX2Mf-Ld8kOlQJ2phYh8Eokls&security=reality&sid=f9&sni=api.deepseek.com&spx=%2Fdaa35358f0eba0c&support-x25519mlkem768=true&type=tcp#Ruslan-Family
+
+https://t.me/proxy?server=31.76.13.94&port=5051&secret=eee944d17c77150c372380956f73e105107777772e6d6963726f736f66742e636f6d
